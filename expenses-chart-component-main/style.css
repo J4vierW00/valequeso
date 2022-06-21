@@ -1,0 +1,21 @@
+*{
+    border:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hsl(33, 100%, 98%);
+}
+
+.detail-info-container{
+    background-color: hsl(27, 66%, 92%);
+}
